@@ -1,0 +1,35 @@
+D:\Aero Design\Avanzada 2019\Interfaz Gráfica\Interfaz\bin\Debug\Interfaz.exe.config
+D:\Aero Design\Avanzada 2019\Interfaz Gráfica\Interfaz\bin\Debug\Interfaz.exe
+D:\Aero Design\Avanzada 2019\Interfaz Gráfica\Interfaz\bin\Debug\Interfaz.pdb
+D:\Aero Design\Avanzada 2019\Interfaz Gráfica\Interfaz\obj\Debug\Interfaz.csprojAssemblyReference.cache
+D:\Aero Design\Avanzada 2019\Interfaz Gráfica\Interfaz\obj\Debug\Interfaz.Form1.resources
+D:\Aero Design\Avanzada 2019\Interfaz Gráfica\Interfaz\obj\Debug\Interfaz.Properties.Resources.resources
+D:\Aero Design\Avanzada 2019\Interfaz Gráfica\Interfaz\obj\Debug\Interfaz.csproj.GenerateResource.cache
+D:\Aero Design\Avanzada 2019\Interfaz Gráfica\Interfaz\obj\Debug\Interfaz.csproj.CoreCompileInputs.cache
+D:\Aero Design\Avanzada 2019\Interfaz Gráfica\Interfaz\obj\Debug\Interfaz.exe
+D:\Aero Design\Avanzada 2019\Interfaz Gráfica\Interfaz\obj\Debug\Interfaz.pdb
+C:\Users\itan_\Desktop\Telem\bin\Debug\Interfaz.exe.config
+C:\Users\itan_\Desktop\Telem\bin\Debug\Interfaz.exe
+C:\Users\itan_\Desktop\Telem\bin\Debug\Interfaz.pdb
+C:\Users\itan_\Desktop\Telem\obj\Debug\Interfaz.csprojAssemblyReference.cache
+C:\Users\itan_\Desktop\Telem\obj\Debug\Interfaz.Properties.Resources.resources
+C:\Users\itan_\Desktop\Telem\obj\Debug\Interfaz.csproj.GenerateResource.cache
+C:\Users\itan_\Desktop\Telem\obj\Debug\Interfaz.csproj.CoreCompileInputs.cache
+C:\Users\itan_\Desktop\Telem\obj\Debug\Interfaz.exe
+C:\Users\itan_\Desktop\Telem\obj\Debug\Interfaz.pdb
+C:\Users\itan_\Desktop\Telem\obj\Debug\Interfaz.GraphicInterface.resources
+C:\Users\itan_\Desktop\Telem\bin\Debug\EntityFramework.dll
+C:\Users\itan_\Desktop\Telem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\itan_\Desktop\Telem\bin\Debug\GMap.NET.Core.dll
+C:\Users\itan_\Desktop\Telem\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\itan_\Desktop\Telem\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\itan_\Desktop\Telem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\itan_\Desktop\Telem\bin\Debug\System.Data.SQLite.dll
+C:\Users\itan_\Desktop\Telem\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\itan_\Desktop\Telem\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\itan_\Desktop\Telem\bin\Debug\EntityFramework.xml
+C:\Users\itan_\Desktop\Telem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\itan_\Desktop\Telem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\itan_\Desktop\Telem\bin\Debug\System.Data.SQLite.xml
+C:\Users\itan_\Desktop\Telem\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\itan_\Desktop\Telem\obj\Debug\Interfaz.csproj.CopyComplete
